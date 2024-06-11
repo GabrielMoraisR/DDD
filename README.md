@@ -36,6 +36,4 @@ Este projeto aplica o padrão Domain-Driven Design (DDD) com TypeScript, inspira
 
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT.
-
 Para mais detalhes, assista ao vídeo completo do tutorial [aqui](https://www.youtube.com/watch?v=nJOgYtg_2UM).
