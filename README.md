@@ -11,7 +11,7 @@ Este projeto aplica o padrão Domain-Driven Design (DDD) com TypeScript, inspira
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone [<URL_DO_REPOSITORIO>](https://github.com/GabrielMoraisR/DDD.git)
    cd <NOME_DO_REPOSITORIO>
    ```
 
